@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pherecydisfragm00unkngoog_0279.png"; bbox 0 0 2892 4925; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2867 647 2888 3581">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2867 647 2888 3581">
+     <span class='ocr_line' id='line_1_1' title="bbox 2867 647 2888 3581"><span class='ocrx_word' id='word_1_1' title='bbox 2885 647 2888 660; x_wconf 99' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_2' title='bbox 2885 719 2888 750; x_wconf 90' lang='grc' dir='ltr'><strong>ΙΙ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2868 765 2888 1400; x_wconf 57' lang='grc' dir='ltr'>ιιιιΙΙέ-ΙΙΙΙ.</span> <span class='ocrx_word' id='word_1_4' title='bbox 2885 1411 2888 1482; x_wconf 73' lang='grc' dir='ltr'><strong>ΕΙ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2885 1499 2888 1522; x_wconf 91' lang='grc' dir='ltr'><strong>ιι</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2885 1533 2888 1536; x_wconf 46' lang='lat'><strong>⁴</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2867 1557 2888 1600; x_wconf 68' lang='grc'>1</span> <span class='ocrx_word' id='word_1_8' title='bbox 2885 1741 2888 1744; x_wconf 46' lang='lat'><strong>⁴</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2885 1823 2888 1828; x_wconf 83' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 2885 1885 2888 1922; x_wconf 90' lang='grc' dir='ltr'><strong>ΙΙ</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 2875 1935 2888 2294; x_wconf 40' lang='grc'><strong>1111111144.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2877 3440 2888 3581; x_wconf 65' lang='grc' dir='ltr'><strong>ΔΙ-.-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 2033 0 2362">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 2033 0 2362">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 2033 0 2362"><span class='ocrx_word' id='word_1_13' title='bbox 0 2033 0 2362; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
